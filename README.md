@@ -19,3 +19,6 @@ to get how many words that is type in to your command line
 
 or on linux a file named `list-of-words.txt` should appear in your home folder
 
+to download the word file to your computer type in your command line 
+
+`git clone https://github.com/Supercrazycoder1000/list-of-censored-5-letter-words.git`
